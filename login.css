@@ -1,0 +1,106 @@
+.row{
+    margin:10px 10px 5px 5px;
+    padding:10px 10px 5px 5px;
+}
+
+a:hover{
+    text-decoration:none;
+    font-size: 15px;
+
+}
+
+.status{
+    box-shadow: 1px 1px 7px black;
+    padding: 10px 10px 30px 10px;
+    background-color:white;
+    height:300px;
+
+}
+
+.progress-bar {
+    text-shadow: 1px 1px 2px black;
+}
+
+.card-dash {
+    margin:15px;
+    height:80px;
+    max-width:200px;
+    width:100%;
+    align-items: center;
+    text-align:center;
+    color:white;
+    text-shadow: 2px 2px 4px black; 
+    box-shadow: 2px 2px 5px black; 
+}
+
+.card-dash:hover {
+    transform:scale(1.10);
+}
+
+.register {
+    width:100%;
+}
+
+  
+#tablePayment {
+    margin-top:10px;
+    
+}
+
+
+/*
+.login {
+    height:100%;
+    display: flex;
+    flex-direction:row;
+}
+
+.login-form {
+   width:50%;
+   height:100%;
+   display: flex;
+   align-items: center;
+   justify-content:center;
+   font-family:sans-serif;
+
+}
+
+.login-banner {
+    width:50%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+ }
+
+ .login-banner img{
+     position:relative;
+     bottom:40px;
+ }
+
+ .login-banner h2{
+    position:relative;
+    bottom:40px;
+ }
+
+ .login-form-wrapper {
+    width:100%;
+    max-width:500px;
+    display: flex;
+    flex-direction:column;
+    padding:20px;
+ }
+
+ .login-form-wrapper button {
+     width:100%;
+     background: linear-gradient(200deg, #3f5efb, #fc466b);
+     color:white;
+ }
+ 
+ .login-form-wrapper button:hover{
+    color:white;
+    transform: scale(1.05);
+    transition: .2s;
+}*/ 
+
